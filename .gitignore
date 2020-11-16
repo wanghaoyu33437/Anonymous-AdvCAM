@@ -1,0 +1,8 @@
+*.pyc
+.idea/*
+*.swp
+Dataset/
+sess/
+result/
+coco/
+*.log
